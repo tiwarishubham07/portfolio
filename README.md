@@ -1,5 +1,5 @@
 # portfolio
-🌐 Personal Portfolio Website
+🌐 Portfolio 
 
 🚀 A modern and responsive Personal Portfolio Website built using HTML, CSS, and JavaScript.
 This project is designed to showcase my journey as a Computer Science student, highlighting my skills, education, projects, and achievements.
